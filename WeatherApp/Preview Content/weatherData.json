@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -86,
+    "lat": 39
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 34.61,
+    "feels_like": 25.97,
+    "temp_min": 32.7,
+    "temp_max": 36.05,
+    "pressure": 1019,
+    "humidity": 62,
+    "sea_level": 1019,
+    "grnd_level": 998
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 12.24,
+    "deg": 311,
+    "gust": 15.5
+  },
+  "clouds": {
+    "all": 60
+  },
+  "dt": 1710781861,
+  "sys": {
+    "type": 2,
+    "id": 2043650,
+    "country": "US",
+    "sunrise": 1710762591,
+    "sunset": 1710806038
+  },
+  "timezone": -14400,
+  "id": 4256170,
+  "name": "Motor Speedway",
+  "cod": 200
+}
